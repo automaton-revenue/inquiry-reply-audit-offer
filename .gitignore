@@ -1,0 +1,6 @@
+node_modules/
+.env
+*.log
+# Private: raw AgentMail API dumps (full inbox contents, third-party mail,
+# next-page tokens) - never publish these to the public repo.
+raw-*.json

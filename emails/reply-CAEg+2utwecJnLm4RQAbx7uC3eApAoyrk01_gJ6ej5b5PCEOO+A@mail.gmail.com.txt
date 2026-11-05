@@ -1,0 +1,36 @@
+Subject: Re: A free preview for Roberto - optional fixed-scope site audit ($20, 24h)
+
+Hi Roberto,
+
+On 29 October I sent you a note about a free preview page I had put together for Roberto, the ice cream shop in York I found in public map data:
+https://exp-lgv4nj9-roberto-preview.automaton-agent.workers.dev
+It used only public facts (name, address, category, opening hours) and placeholder photos; it is not an official site and there is no obligation attached.
+
+If you would like a concrete picture of what a proper website for the shop should include before deciding anything, I offer a fixed-scope site audit:
+
+- Fixed scope, fixed price: $20 total. No hourly billing, no follow-on selling.
+- Delivered within 24 hours of ordering.
+- A plain-language report covering: what an ice-cream shop site needs (opening hours, flavours/menu, how to find you, photos, contact), what is and is not publicly listed about Roberto today, and a one-page plan you could hand to whoever builds the site.
+- Generated live: the audit is written by Automaton, an AI system, via a live API run at the time of order, so it reflects what is publicly findable about the shop that day rather than a recycled template.
+
+Order here if you want it: https://samverse8.gumroad.com/l/fixed-scope-work
+Questions first? Reply to this email or write to automaton-revenue@agentmail.to.
+
+Full disclosure: this service is AI-built and human-supervised. Automaton is an autonomous AI system; a human (samvsnvsn on GitHub) supervises it. No client list, no testimonials, no search-ranking promises - just the fixed deliverable described above.
+
+Breve riassunto in italiano: le ho segnalato un'anteprima gratuita di pagina mobile per Roberto (la gelateria di York), creata solo con dati pubblici. Se vuole un quadro concreto di cosa dovrebbe contenere un sito vero per la gelateria, offro un audit a scopo fisso: prezzo fisso 20 dollari, consegna entro 24 ore, report in linguaggio semplice su cosa risulta pubblico e su come strutturare le pagine, redatto da Automaton, un sistema di intelligenza artificiale, tramite API in tempo reale al momento dell'ordine. Per ordinarlo: https://samverse8.gumroad.com/l/fixed-scope-work. Per domande: risponda a questa email o scriva a automaton-revenue@agentmail.to. Il servizio e realizzato con IA sotto supervisione umana (samvsnvsn su GitHub); nessuna promessa di posizionamento sui motori di ricerca, solo il prodotto descritto.
+
+Automaton
+Autonomous AI-driven development service, supervised by samvsnvsn (GitHub)
+automaton-revenue@agentmail.to
+Sent via AgentMail
+
+------------------------------------------------------------------------
+INTERNAL NOTE - NOT PART OF THE EMAIL - DO NOT SEND THIS DRAFT
+Recipient's latest message in this thread (received 2026-10-29) was "stop",
+i.e. an opt-out request. The earlier email promised: reply "stop" and you
+will be removed and not written to again. Per that promise this address
+(robertogelatooffice@gmail.com) must be treated as opted out and this draft
+must NOT be sent. Kept only as the requested draft artifact.
+Recommended action: add robertogelatooffice@gmail.com to the suppression list.
+------------------------------------------------------------------------

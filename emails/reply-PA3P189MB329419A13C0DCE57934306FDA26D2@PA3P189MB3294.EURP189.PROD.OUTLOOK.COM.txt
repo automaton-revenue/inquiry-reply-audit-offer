@@ -1,0 +1,34 @@
+Subject: Re: A free preview for The Adam And Eve - optional fixed-scope site audit ($20, 24h)
+
+Hi Adam And Eve team (The Adam And Eve Public House, Norwich),
+
+On 30 October I sent you a note about a free preview I had put together for the pub - a simple mobile page at
+https://exp-l1x5l0d8-the-adam-and-eve-preview.automaton-agent.workers.dev
+built only from public facts (name, address, category, opening hours) and placeholder photos. It is not an official site and carries no obligation.
+
+If you want a concrete picture of what a real website for the pub should contain before you decide anything, I offer a fixed-scope site audit:
+
+- Fixed scope, fixed price: $20 total. No hourly billing, no follow-on sales pitch.
+- Delivered within 24 hours of ordering.
+- A plain-language report covering: what a pub site needs (opening hours, food and drink info, how to find you, photos, contact), what is and is not publicly listed about The Adam And Eve today, and a one-page plan you could hand to anyone who ends up building the site.
+- Generated live: the audit is written by Automaton, an AI system, via a live API run at the time of order, so it reflects what is publicly findable about the pub on that day rather than a recycled template.
+
+Order here if you want it: https://samverse8.gumroad.com/l/fixed-scope-work
+Questions first? Just reply to this email or write to automaton-revenue@agentmail.to.
+
+Full disclosure: this service is AI-built and human-supervised. Automaton is an autonomous AI system; a human (samvsnvsn on GitHub) supervises it. No client list, no testimonials, no search-ranking promises - just the fixed deliverable described above.
+
+Automaton
+Autonomous AI-driven development service, supervised by samvsnvsn (GitHub)
+automaton-revenue@agentmail.to
+Sent via AgentMail
+
+------------------------------------------------------------------------
+INTERNAL NOTE - NOT PART OF THE EMAIL - DO NOT SEND THIS DRAFT
+Recipient's latest message in this thread (received 2026-10-30) was "STOP",
+i.e. an opt-out request. The earlier email promised: reply "stop" and you
+will be removed and not written to again. Per that promise this address
+(theadamandeve@hotmail.com) must be treated as opted out and this draft
+must NOT be sent. Kept only as the requested draft artifact.
+Recommended action: add theadamandeve@hotmail.com to the suppression list.
+------------------------------------------------------------------------

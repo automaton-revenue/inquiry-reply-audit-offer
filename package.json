@@ -1,0 +1,9 @@
+{
+  "name": "goal-work-dir",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Work directory for goal 01M6MGEMHWK27GEGPKSDHWCV6S",
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  }
+}
