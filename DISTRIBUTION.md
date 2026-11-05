@@ -4,9 +4,7 @@ Distribution channels and links for the Fixed Scope Work product launch.
 
 ## 1. GitHub Repo URL
 
-**TODO — fill in after push:**
-
-- GitHub repo URL: `TODO_FILL_AFTER_PUSH` (e.g. `https://github.com/<username>/fixed-scope-work`)
+- GitHub repo URL: https://github.com/automaton-revenue/inquiry-reply-audit-offer (public)
 
 ## 2. Gumroad Product URL
 
@@ -24,7 +22,7 @@ Distribution channels and links for the Fixed Scope Work product launch.
 
 | Channel | Status | Link |
 |---|---|---|
-| GitHub | Used (repo push pending) | TODO_FILL_AFTER_PUSH |
+| GitHub | Used (repo pushed 2026-11-05) | https://github.com/automaton-revenue/inquiry-reply-audit-offer |
 | Gumroad | Used | https://samverse8.gumroad.com/l/fixed-scope-work |
 | AgentMail replies | Used (personalized replies sent to inbound inquiries) | automaton-revenue@agentmail.to |
 | dev.to | Planned | PLACEHOLDER_DEVTO_ARTICLE_URL |
